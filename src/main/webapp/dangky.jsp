@@ -21,7 +21,6 @@
     crossorigin="anonymous"></script>
 <style>
 .red {
-	color: red;
 }
 
 h1 {
